@@ -1,0 +1,68 @@
+ 
+                                              HEC-RAS - River Analysis System
+ 
+ 
+Project File:  C:\Users\manas\OneDrive\Desktop\Hec-Ras123\Tawa-region.prj
+ 
+Project Name:  Tawa-region
+ 
+ 
+Plan Name:     unsteady-flow
+ 
+Short ID:      manaswi
+ 
+
+Starting Time:   31Dec2008 2400
+
+Ending Time:     13May2010 2400
+
+
+                ################################################
+                #                                              #
+                #                                              #
+                #       1D and 2D Unsteady Flow Module         #
+                #                                              #
+                #                                              #
+                #          HEC-RAS 5.0.7 March 2019            #
+                #                                              #
+                #             07APR25 at 00:05:57              #
+                #                                              #
+                ################################################
+ 
+ 
+ 
+
+
+
+                 Volume Accounting in 1000 m^3
+
+                           External Boundary Flux of Water
+
+         US Inflow       Lat Hydro      DS Outflow        SA Hydro     Groundwater       2D Inflow      2D Outflow      Diversions
+         *********       *********      **********        ********     ***********       *********      **********      **********
+                                                                                          2958674.        2934743.                
+
+                      River Reaches, Storage Areas, and 2D Areas
+
+    Start 1D Reach   Starting SA's     Starting 2D  Final 1D Reach      Final SA's  Final 2D Areas
+    **************   *************     ***********  **************      **********  **************
+                                                                                            24304.
+
+                             Error   Percent Error
+
+                             *****   *************
+                             373.0         0.01261
+
+
+
+
+
+
+
+                 Volume Accounting for 2D Flow Area in 1000 m^3                  
+
+           2D Area    Starting Vol      Ending Vol      Cum Inflow     Cum Outflow           Error   Percent Error
+           *******    ************      **********      **********     ***********           *****    ************
+ 
+ 
+         Perimeter                          24304.        2958674.        2934743.           373.0         0.01261
